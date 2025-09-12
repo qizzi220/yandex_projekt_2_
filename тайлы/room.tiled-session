@@ -1,0 +1,100 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "1.tmx": {
+            "scale": 0.7980282738095238,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 609.0009789753391,
+                "y": 481.1859586965643
+            }
+        },
+        "2.tmx": {
+            "scale": 0.6709375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 800.3726129483,
+                "y": 640.89427107592
+            }
+        },
+        "3.tmx": {
+            "scale": 0.8945833333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 800.3726129483002,
+                "y": 480.67070330693997
+            }
+        },
+        "C:/Users/Олег/PycharmProject/yandex_2_right/тайлы/3.tmx": {
+            "scale": 0.8945833333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 800.3726129483002,
+                "y": 480.67070330693997
+            }
+        },
+        "C:/Users/Олег/PycharmProject/yandex_2_right/тайлы/4.tmx": {
+            "scale": 0.838671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.52165812761984,
+                "y": 512.7154168607359
+            }
+        },
+        "C:/Users/Олег/PycharmProject/yandex_2_right/тайлы/5.tmx": {
+            "scale": 0.838671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 577.1029343269678,
+                "y": 512.7154168607359
+            }
+        },
+        "room1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1259.0909090909092,
+                "y": 1281.8181818181815
+            }
+        },
+        "tiles_64.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "все тайлы.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Олег/Desktop",
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 19,
+    "openFiles": [
+        "tiles_64.tsx",
+        "1.tmx"
+    ],
+    "project": "room.tiled-project",
+    "recentFiles": [
+        "2.tmx",
+        "tiles_64.tsx",
+        "1.tmx",
+        "room1.tmx",
+        "все тайлы.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
